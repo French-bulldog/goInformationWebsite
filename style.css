@@ -1,5 +1,12 @@
 /*網站首頁*/
 
+/*引用字體清松手寫體*/
+@font-face {
+  font-family: "myFont";
+  src: url("./清松手寫體1.ttf");
+}
+
+
 /*清除所有標籤的 padding、margin、*/
 /*box-sizing:border-box 會根據寬高決定*/
 /*font-family 字體 DFkai-sb 沒有換  sans-serif*/
@@ -7,7 +14,7 @@
   margin: 0;
   padding: 0;
   /* box-sizing: border-box; */
-  font-family: DFkai-sb, sans-serif;
+  font-family: "myFont" ,DFkai-sb, sans-serif;
 }
 
 /*將預設粗字體拿掉*/
