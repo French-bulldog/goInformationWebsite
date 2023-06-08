@@ -8,11 +8,11 @@
 - RWD
 - JavaScript
 
-## 如何遊玩
+## 如何使用
 
 1. 從[這裡](https://github.com/French-bulldog/goInformationWebsite)下載程式碼
 2. 在瀏覽器中打開`index.html`文件
-3. 開始遊玩！
+3. 開始使用！
 
 ## 開發者
 
